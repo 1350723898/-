@@ -8,7 +8,7 @@
     {
       "name" : "梅西",
       "age" : 31,
-      "enname" : "leo messi",
+      "secretIdentity" : "leo messi",
       "powers" : [
         "过人",
         "门前终结能力",
@@ -18,7 +18,7 @@
     {
       "name" : "菲利佩·库蒂尼奥",
       "age" : 26,
-      "enname" : "Philippe Coutinho",
+      "secretIdentity" : "Philippe Coutinho",
       "powers" : [
         "远射",
         "优秀的盘带",
@@ -28,7 +28,7 @@
     {
       "name" : "路易斯·苏亚雷斯",
       "age" : 30,
-      "enname" : "Luis Suarez",
+      "secretIdentity" : "Luis Suarez",
       "powers" : [
         "门前嗅觉",
         "终结能力",
