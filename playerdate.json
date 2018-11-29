@@ -1,6 +1,6 @@
 {
   "squadName" : "巴萨现役球员",
-  "homeTown" : "巴萨",
+  "homeTown" : "巴塞罗那",
   "formed" : 1899,
   "secretBase" : "Super tower",
   "active" : true,
@@ -8,11 +8,11 @@
     {
       "name" : "里奥·梅西",
       "age" : 31,
-      "secretIdentity" : "前锋",
+      "secretIdentity" : "边锋",
       "powers" : [
-        "a",
-        "v",
-        "vw"
+        "世界级射门",
+        "大师级传球",
+        "最顶级盘带"
       ]
     },
     {
@@ -37,4 +37,6 @@
         "Interdimensional travel"
       ]
     }
+  ]
 }
+
