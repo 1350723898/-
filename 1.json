@@ -6,35 +6,33 @@
   "active" : true,
   "members" : [
     {
-      "name" : "梅西",
+      "name" : "里奥·梅西",
       "age" : 31,
       "secretIdentity" : "边锋",
       "powers" : [
-        "射门",
-        "传球",
-        "盘带"
+        "世界级射门",
+        "大师级传球",
+        "最顶级盘带"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "name" : "库蒂尼奥",
+      "age" : 26,
+      "secretIdentity" : "中场",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "穿云箭远射",
+        "出色的组织",
+        "优秀的盘带"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "苏亚雷斯",
+      "age" : 32,
+      "secretIdentity" : "中锋",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "一流的跑位",
+        "世界级射门",
+        "优秀的身体",
       ]
     }
   ]
