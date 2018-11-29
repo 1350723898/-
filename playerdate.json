@@ -1,18 +1,18 @@
 {
-  "squadName" : "巴萨现役队员",
-  "homeTown" : "巴塞罗那",
+  "squadName" : "barclona player",
+  "homeTown" : "barcelona",
   "formed" : 1899.11.29,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "里奥·梅西",
+      "name" : "messi",
       "age" : 31,
-      "secretIdentity" : "前锋",
+      "secretIdentity" : "forword",
       "powers" : [
-        "世界顶尖的射术",
-        "世界级的盘带",
-        "大师级的传球"
+        "shot",
+        "a",
+        "assi"
       ]
     },
     {
