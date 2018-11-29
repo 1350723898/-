@@ -1,18 +1,18 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
+  "squadName" : "巴萨现役队员",
+  "homeTown" : "巴塞罗那",
+  "formed" : 1899年11月29日,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "里奥·梅西",
+      "age" : 31,
+      "secretIdentity" : "前锋",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "世界顶尖的射术",
+        "世界级的盘带",
+        "大师级的传球"
       ]
     },
     {
