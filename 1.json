@@ -1,12 +1,12 @@
 {
-  "squadName" : "巴塞罗那现役球员",
+  "squadName" : "巴萨现役球员",
   "homeTown" : "巴塞罗那",
   "formed" : 1899,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "里奥·梅西",
+      "name" : "梅西",
       "age" : 31,
       "secretIdentity" : "边锋",
       "powers" : [
@@ -16,23 +16,25 @@
       ]
     },
     {
-      "name" : "库蒂尼奥",
-      "age" : 26,
-      "secretIdentity" : "内锋",
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
       "powers" : [
-        "远射",
-        "盘带",
-        "组织"
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
       ]
     },
     {
-      "name" : "苏亚雷斯",
-      "age" : 33,
-      "secretIdentity" : "中锋",
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
       "powers" : [
-        "跑位",
-        "顶射术",
-        "爆发",
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
       ]
     }
   ]
